@@ -1,0 +1,4 @@
+papermill \ 
+-p PDFPATH /home/aubrey/ALBI-345/files/pdfs/Orders-with-Complete-Metamorphosis.pdf \ 
+pdf2reveal.ipynb \ 
+
