@@ -1,4 +1,4 @@
-* https://aubreymoore.github.io/albi345-slides/blob/BioInvasionOfGuamMBP20100119/index.html
+* https://aubreymoore.github.io/albi345-slides/BioInvasionOfGuamMBP20100119/index.html
 
 * https://aubreymoore.github.io/albi345-slides/Orders-with-Complete-Metamorphosis
 
